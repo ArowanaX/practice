@@ -1,2 +1,3 @@
 # practice
 :wink:
+/play clowntown

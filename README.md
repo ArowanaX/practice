@@ -1,2 +1,2 @@
 # practice
-:wink:
+some practice from codeforces...
